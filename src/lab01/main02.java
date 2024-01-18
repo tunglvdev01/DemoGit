@@ -29,5 +29,6 @@ public class main02 {
         System.out.println("Tên sản phẩm: " + product3.getName());
         System.out.println("Thuế nhập khẩu: " + product3.getImportTax());
         System.out.println("---------------------------");
+        System.out.println("Tungdz vc");
     }
 }
